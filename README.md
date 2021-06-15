@@ -2,10 +2,6 @@
 BMC TrueSight Orchestrator
 Basic TSO modules for Integration projects
 
-## Core Workflows and purpose
-- **w3rkstatt** base python functions for project support
-- **w3rkstatt** encrypt the cleartext passwords
-
 ## Dependencies
 - [ ] **Central Configuration Module**
 - [ ] **TSO Adatpers**
@@ -17,7 +13,7 @@ Basic TSO modules for Integration projects
 - **Microsoft** Interaction with the Microsoft Windows Platform
 - **Service Deask Automation** End-To-End scenarios
 
-Module Name prefix: Globa-DEM
+Module Name prefix: Globa-DEM-
 
 ## Base Modules
 | Solution                  | API           | Worklfow      |
