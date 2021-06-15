@@ -56,6 +56,7 @@ The "share" modules contains help workflows to get module and adapter configurat
 * Wokflow: 'Global-DEM-Shared:Configs:Get Adapter Name'
 * Input: location, type
 * Output: adapter name
+* XPath: //adapter[@type="${type}"][@location="${location}"]/text()
 
 ```bash
 <adapters>
