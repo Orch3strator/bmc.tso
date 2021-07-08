@@ -34,11 +34,11 @@ help = "TrueSight Orchestration and Automation Value and Health Check Analysis T
 usage = "Usage: python tso-analysis.py --file 'customer.json' --help --verbose"
 
 db_driver = "ODBC Driver 17 for SQL Server"
-db_server = "lab-core-sql"
+db_server = ""
 db_port = "1443"
-db_name = "TSO"
-db_user = "BMC_TSO"
-db_pwd = "R1chm@nd"
+db_name = ""
+db_user = ""
+db_pwd = ""
 
 _modVer = "1.0"
 
